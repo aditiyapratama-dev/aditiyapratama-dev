@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Aditiya Pratama 👋
 
-<!--
-**aditiyapratama-dev/aditiyapratama-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm rebuilding my career in Data Analytics and Automation.
 
-Here are some ideas to get you started:
+## Currently Learning
+- SQL
+- Python
+- Excel
+- Google Sheets
+- Power BI
+- Looker Studio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Data Analysis
+- Spreadsheet Development
+- Dashboard
+- Python
+- SQL
+
+## 2026 Goals
+- Build 20 professional projects
+- Become a Data Analyst
+- Become a Spreadsheet Developer
+- Learn Automation
