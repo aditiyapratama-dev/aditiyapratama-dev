@@ -1,0 +1,18 @@
+# Excel temporary files
+~$*.xlsx
+~$*.xlsm
+~$*.xls
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Mac
+.DS_Store
