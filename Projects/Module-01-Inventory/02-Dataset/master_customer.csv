@@ -1,0 +1,119 @@
+customer_id;customer_name;customer_type;contact_person;phone;city
+CUS001;CV Marpaung Nugroho;Restaurant;Aisyah Nugroho;86342160733;Bekasi
+CUS002;UD Samosir Pradana (Persero) Tbk;Cafe;Maryanto Nababan;80541458685;Depok
+CUS004;Perum Nainggolan Rajasa (Persero) Tbk;Coffee Shop;Maya Adriansyah, M.TI.;8835615951;Surabaya
+CUS005;Perum Saragih Tbk;Coffee Shop;Latika Sihombing;8823662994;Tangerang
+CUS006;Perum Adriansyah Sihombing Tbk;Restaurant;Irfan Prastuti;87773872148;Malang
+CUS007;PT Prakasa Tbk;Restaurant;Reksa Napitupulu;82003791769;Jakarta
+CUS009;PD Mansur;Retail;drg. Mulyanto Nuraini, M.Pd;87986872774;Bandung
+CUS010;UD Nurdiyanti Laksita;Bakery;Digdaya Saefullah, M.M.;80434558122;Bandung
+CUS011;PD Mangunsong Prabowo;Retail;Heryanto Wasita;88760366909;Bekasi
+CUS012;PD Ardianto Thamrin Tbk;Office;dr. Simon Andriani, M.Pd;8893734670;Malang
+CUS013;UD Winarsih Wastuti Tbk;Restaurant;Eli Hastuti, S.E.I;8806990162;Malang
+CUS014;CV Hardiansyah Rajata Tbk;Cafe;Gabriella Hasanah;85646417080;Bandung
+CUS017;Perum Lazuardi (Persero) Tbk;Cafe;Patricia Aryani;81850671657;Bandung
+CUS018;PD Nugroho Nurdiyanti;Bakery;Emong Susanti, M.Pd;87694531473;Bekasi
+CUS019;Perum Suryatmi Winarsih Tbk;Bakery;Ana Lailasari;82735454948;Tangerang
+CUS020;Perum Nainggolan;Cafe;Dimas Wasita;8377701436;Tangerang
+CUS021;UD Wijayanti Prastuti;Restaurant;Nabila Puspasari;856855744;Depok
+CUS022;CV Lazuardi (Persero) Tbk;Office;Devi Nasyiah;82337498941;Bekasi
+CUS023;UD Pradana Tarihoran;Office;Gada Budiman;8824008427;Bandung
+CUS024;PT Pertiwi;Retail;Nadine Kuswandari;85204711671;Bogor
+CUS026;UD Rahmawati Aryani Tbk;Cafe;Ir. Almira Suryatmi;80334123281;Semarang
+CUS028;PT Palastri Prasetyo (Persero) Tbk;Office;Yunita Megantara;80024994717;Yogyakarta
+CUS030;UD Permata;Coffee Shop;Prabowo Natsir;8742967175;Depok
+CUS031;UD Sinaga Winarsih (Persero) Tbk;Coffee Shop;R. Julia Zulkarnain, M.Kom.;86807154516;Tangerang
+CUS032;Perum Hariyah;Bakery;Anastasia Nainggolan;859770348;Bekasi
+CUS034;CV Mandasari;Retail;Icha Melani, S.T.;80773782639;Tangerang
+CUS035;PT Saefullah Agustina;Cafe;Winda Mayasari;80449972787;Semarang
+CUS037;PT Mahendra Mardhiyah Tbk;Cafe;Puti Zulfa Farida, S.IP;870262174;Bekasi
+CUS038;Perum Widodo (Persero) Tbk;Cafe;dr. Zulaikha Wulandari, M.Pd;80578091343;Depok
+CUS039;PD Januar;Office;Ir. Niyaga Januar, M.M.;82400504556;Yogyakarta
+CUS040;CV Nuraini Zulkarnain;Retail;Hj. Widya Najmudin;82219693792;Bekasi
+CUS042;UD Hasanah Sihombing (Persero) Tbk;Bakery;Zulaikha Laksmiwati;80369594406;Malang
+CUS044;PT Prastuti Utama (Persero) Tbk;Cafe;Upik Sihombing;86232858842;Bogor
+CUS046;UD Padmasari Tbk;Coffee Shop;Hj. Kasiyah Kurniawan, S.H.;80985931746;Jakarta
+CUS047;CV Gunawan;Coffee Shop;Gadang Lailasari;80138267586;Bogor
+CUS049;PT Widodo Tbk;Office;Banawi Hasanah;80390053293;Surabaya
+CUS050;Perum Pranowo;Retail;R.A. Yulia Pradipta;82904228421;Bandung
+CUS051;CV Budiman;Bakery;Widya Prakasa;80240268117;Surabaya
+CUS053;PD Hidayanto Hutapea Tbk;Retail;R. Bella Mahendra;89985698478;Bekasi
+CUS054;PT Latupono Yolanda (Persero) Tbk;Retail;Mila Pradana;80576615654;Jakarta
+CUS055;CV Kusmawati (Persero) Tbk;Office;Radika Hutasoit;80615280988;Bandung
+CUS056;PT Zulkarnain Tbk;Office;Hj. Umi Anggraini, S.Gz;89451983273;Yogyakarta
+CUS058;UD Sirait Tbk;Coffee Shop;Cemeti Megantara;80120183667;Bekasi
+CUS059;CV Uwais Tbk;Bakery;Jane Purnawati, M.Ak;80022901476;Bogor
+CUS060;Perum Handayani Agustina Tbk;Bakery;Perkasa Mulyani;80561497840;Jakarta
+CUS062;Perum Pradana Mardhiyah Tbk;Retail;Hasta Gunarto;80071596966;Bogor
+CUS063;PT Waskita (Persero) Tbk;Retail;Ella Safitri;85161369681;Bandung
+CUS064;UD Sirait Prasetya Tbk;Office;R.M. Bahuwarna Melani, S.IP;883552312;Bekasi
+CUS065;CV Natsir (Persero) Tbk;Office;KH. Marwata Hutagalung, S.E.;87997995527;Yogyakarta
+CUS067;PT Yuliarti (Persero) Tbk;Cafe;Ir. Ophelia Winarno;89807935978;Tangerang
+CUS068;PT Hartati Jailani;Cafe;Tgk. Nasab Hutasoit, M.TI.;82037788925;Yogyakarta
+CUS069;UD Wibisono Tbk;Retail;Tgk. Mustika Rahimah, S.Gz;81518644925;Jakarta
+CUS070;Perum Wijayanti;Retail;Vero Tampubolon;86291486528;Tangerang
+CUS071;PD Melani;Bakery;Anita Tarihoran;82357332214;Jakarta
+CUS072;Perum Namaga;Coffee Shop;Drs. Ani Wijayanti, S.Psi;82962229270;Tangerang
+CUS074;Perum Nuraini Andriani (Persero) Tbk;Coffee Shop;R.A. Wani Suartini, S.E.I;80758181412;Depok
+CUS075;PD Mulyani (Persero) Tbk;Retail;drg. Cornelia Prasetya, M.M.;80606853615;Bandung
+CUS078;Perum Permata;Cafe;Nasim Megantara;86095396218;Bogor
+CUS079;PT Novitasari (Persero) Tbk;Office;Nadine Gunawan;80540515319;Semarang
+CUS080;CV Gunawan Tbk;Retail;Tgk. Rahmat Yuniar;82772217043;Bogor
+CUS081;CV Gunarto;Restaurant;Ira Mulyani;874034505;Yogyakarta
+CUS082;PT Uwais Tbk;Retail;Uli Farida;80527758416;Surabaya
+CUS083;PD Suartini;Cafe;R. Puji Sihombing, S.Psi;80154479627;Yogyakarta
+CUS085;CV Hidayat;Office;Prayogo Yuliarti;85690927557;Bekasi
+CUS086;Perum Mandala;Bakery;Tgk. Hasta Sihotang;83102786814;Tangerang
+CUS087;PD Prabowo Tbk;Bakery;Nurul Pangestu, S.IP;82172715518;Yogyakarta
+CUS089;Perum Irawan Haryanto;Cafe;Lala Kuswandari;866912517;Depok
+CUS090;Perum Situmorang Mahendra (Persero) Tbk;Coffee Shop;R.M. Ian Mardhiyah, S.Gz;80824225358;Tangerang
+CUS091;PT Ramadan (Persero) Tbk;Coffee Shop;Yahya Puspasari, S.T.;82498182992;Malang
+CUS093;UD Laksmiwati (Persero) Tbk;Retail;KH. Mahdi Waskita, S.Pd;81027677359;Depok
+CUS094;UD Simanjuntak Situmorang;Coffee Shop;Diah Uwais;881537147;Bandung
+CUS095;CV Kuswoyo Hardiansyah;Office;Kiandra Susanti;80325953278;Jakarta
+CUS096;PD Samosir Mandasari (Persero) Tbk;Cafe;Warsa Wijaya;873395004;Bandung
+CUS097;Perum Yolanda Wulandari Tbk;Coffee Shop;Paulin Anggriawan;80624565060;Tangerang
+CUS098;UD Puspasari Suwarno;Coffee Shop;Harsana Mayasari;8499121655;Yogyakarta
+CUS099;CV Napitupulu Tbk;Cafe;Dt. Arsipatra Firgantoro;82578729825;Bekasi
+CUS100;CV Wijaya Tbk;Office;dr. Ophelia Melani;8879470551;Semarang
+CUS102;CV Budiyanto;Cafe;Iriana Andriani;82636897028;Malang
+CUS103;Perum Simbolon Wijayanti;Retail;Paramita Waluyo;82785854973;Semarang
+CUS104;UD Puspita Salahudin;Cafe;Wardaya Salahudin;83757584419;Semarang
+CUS105;PD Situmorang Maulana Tbk;Bakery;Edward Hutapea;87473384842;Depok
+CUS106;Perum Rahmawati;Coffee Shop;Dimaz Hardiansyah;833016571;Bandung
+CUS107;PT Pudjiastuti Manullang;Office;Safina Kusmawati;83454019380;Surabaya
+CUS108;PD Nugroho Firgantoro;Restaurant;drg. Winda Lailasari, S.E.;80049915478;Surabaya
+CUS109;CV Mayasari Hastuti Tbk;Bakery;Rusman Kusumo;82742054932;Semarang
+CUS110;PD Mulyani Simbolon (Persero) Tbk;Office;Salsabila Kuswoyo;82275304637;Jakarta
+CUS112;Perum Prasetya (Persero) Tbk;Coffee Shop;Jati Mangunsong;89568783391;Surabaya
+CUS113;Perum Tarihoran Hutagalung (Persero) Tbk;Office;Radit Pudjiastuti;839822587;Tangerang
+CUS114;CV Padmasari;Coffee Shop;Cornelia Melani;80728679087;Depok
+CUS115;PT Widodo Tbk;Cafe;Cut Uli Pratama, M.Farm;80065180170;Depok
+CUS116;PD Najmudin (Persero) Tbk;Retail;Ir. Omar Yuliarti, S.Farm;86766182512;Semarang
+CUS117;Perum Mahendra Prasetyo (Persero) Tbk;Cafe;Dt. Emin Hariyah, M.Pd;863375243;Surabaya
+CUS119;PD Pradipta Namaga (Persero) Tbk;Bakery;KH. Asman Mandala, M.TI.;83959953428;Depok
+CUS120;PD Salahudin Saefullah;Coffee Shop;Kalim Rahayu;82687056856;Semarang
+CUS121;CV Salahudin Waluyo (Persero) Tbk;Retail;Dr. Jasmani Permadi, S.H.;82708668826;Bandung
+CUS122;UD Putra Sitompul;Coffee Shop;Bahuwirya Hartati, S.I.Kom;80830469901;Yogyakarta
+CUS123;Perum Winarsih Purwanti;Coffee Shop;Jatmiko Pranowo;84033173936;Bandung
+CUS124;Perum Sinaga Suryono;Cafe;Nadia Nasyidah;84458771753;Bogor
+CUS126;PD Purnawati Prasasta;Bakery;Pia Yolanda;84777252287;Depok
+CUS128;UD Halim Safitri Tbk;Cafe;Jinawi Budiyanto, S.Ked;8886008484;Surabaya
+CUS129;Perum Wulandari;Coffee Shop;Yani Nugroho;80182339845;Surabaya
+CUS131;PT Narpati;Restaurant;Jamil Fujiati;89180339740;Surabaya
+CUS132;UD Palastri;Office;Hj. Ami Nugroho;80392614293;Yogyakarta
+CUS133;Perum Sitompul Winarno (Persero) Tbk;Office;H. Nyoman Hutapea, M.TI.;80163159996;Semarang
+CUS134;PT Usada Tbk;Cafe;drg. Joko Pradana, S.I.Kom;8866296194;Depok
+CUS135;PT Hutasoit Santoso;Restaurant;Harjasa Usada;82655110475;Depok
+CUS136;PT Mustofa (Persero) Tbk;Coffee Shop;Irfan Hassanah;8888610158;Malang
+CUS137;Perum Rahimah;Office;Tgk. Saka Winarno, S.Ked;86618398262;Yogyakarta
+CUS138;UD Sihombing Santoso;Coffee Shop;Dalima Haryanto;82646471543;Tangerang
+CUS140;UD Sinaga Suartini;Retail;Farah Kuswandari, S.Psi;82654793564;Semarang
+CUS141;UD Latupono Pratiwi (Persero) Tbk;Retail;Drs. Elvina Zulaika;8807374167;Yogyakarta
+CUS142;UD Permadi Ramadan;Cafe;Candra Anggraini, S.Sos;80797968868;Jakarta
+CUS145;UD Agustina;Retail;Bambang Megantara;84573875717;Bandung
+CUS146;UD Hidayat Salahudin (Persero) Tbk;Office;H. Balijan Damanik, S.Psi;80238282586;Depok
+CUS147;CV Waskita Usamah (Persero) Tbk;Bakery;Manah Wahyuni;80609379660;Bandung
+CUS148;CV Setiawan Haryanto;Retail;Puti Wirda Nasyiah;82553714785;Depok
+CUS149;Perum Wijaya Rahmawati (Persero) Tbk;Retail;Kamila Haryanti;82499125134;Malang
+CUS150;CV Wahyudin;Coffee Shop;Dinda Melani, S.Sos;80929662782;Malang
